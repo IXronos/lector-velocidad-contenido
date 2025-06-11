@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "ultimo_update": "2024-12-08T10:00:00Z",
-  "total_textos": 8,
+  "version": "1.1.0",
+  "ultimo_update": "2024-12-08T15:00:00Z",
+  "total_textos": 9,
   "textos": [
     {
       "id": 1,
@@ -74,6 +74,15 @@
       "palabras_count": 178,
       "archivo": "contenido/cuento_008.json",
       "fecha_creacion": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": 9,
+      "titulo": "La pulsera",
+      "categoria": "Valores",
+      "dificultad": 2,
+      "palabras_count": 650,
+      "archivo": "contenido/cuento_009.json",
+      "fecha_creacion": "2024-12-08T15:00:00Z"
     }
   ]
 }
