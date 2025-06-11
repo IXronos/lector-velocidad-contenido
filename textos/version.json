@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "fecha_actualizacion": "2024-12-08T10:00:00Z",
+  "cambios": [
+    "Agregados 5 cuentos iniciales",
+    "3 cuentos nuevos: El árbol mágico, La aventura del ratón valiente, El robot que aprendió a reír",
+    "Nueva categoría: Ciencia Ficción"
+  ],
+  "total_textos": 8,
+  "nuevos_desde_version": {
+    "0.9.0": 8
+  }
+}
