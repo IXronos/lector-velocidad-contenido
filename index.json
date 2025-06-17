@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "ultimo_update": "2025-06-17T21:22:37.555Z",
-  "total_textos": 2,
+  "version": "1.0.3",
+  "ultimo_update": "2025-06-17T21:25:57.823Z",
+  "total_textos": 3,
   "textos": [
     {
       "id": 11,
@@ -20,6 +20,15 @@
       "palabras_count": 144,
       "archivo": "textos/contenido/cuento_012.json",
       "fecha_creacion": "2025-06-17T21:22:34.493Z"
+    },
+    {
+      "id": 13,
+      "titulo": "Las estrellas de mar",
+      "categoria": "Amistad",
+      "dificultad": 1,
+      "palabras_count": 266,
+      "archivo": "textos/contenido/cuento_013.json",
+      "fecha_creacion": "2025-06-17T21:25:54.841Z"
     }
   ]
 }
