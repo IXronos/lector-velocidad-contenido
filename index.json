@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "ultimo_update": "2025-06-17T21:14:22.708Z",
-  "total_textos": 1,
+  "version": "1.0.2",
+  "ultimo_update": "2025-06-17T21:22:37.555Z",
+  "total_textos": 2,
   "textos": [
     {
       "id": 11,
@@ -11,6 +11,15 @@
       "palabras_count": 144,
       "archivo": "contenido/cuento_011.json",
       "fecha_creacion": "2025-06-17T21:14:18.574Z"
+    },
+    {
+      "id": 12,
+      "titulo": "Las entradas del circo",
+      "categoria": "Familia",
+      "dificultad": 1,
+      "palabras_count": 144,
+      "archivo": "textos/contenido/cuento_012.json",
+      "fecha_creacion": "2025-06-17T21:22:34.493Z"
     }
   ]
 }
