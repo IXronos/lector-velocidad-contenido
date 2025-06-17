@@ -1,0 +1,97 @@
+{
+  "version": "1.1.1",
+  "ultimo_update": "2025-06-17T05:23:32.851Z",
+  "total_textos": 10,
+  "textos": [
+    {
+      "id": 1,
+      "titulo": "Mi gemela invisible",
+      "categoria": "FantasÃ­a",
+      "dificultad": 2,
+      "palabras_count": 245,
+      "archivo": "contenido/cuento_001.json",
+      "fecha_creacion": "2024-12-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "titulo": "El pez",
+      "categoria": "Aventura",
+      "dificultad": 1,
+      "palabras_count": 98,
+      "archivo": "contenido/cuento_002.json",
+      "fecha_creacion": "2024-12-01T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "titulo": "Un cuento de amistad",
+      "categoria": "Amistad",
+      "dificultad": 1,
+      "palabras_count": 87,
+      "archivo": "contenido/cuento_003.json",
+      "fecha_creacion": "2024-12-01T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "titulo": "El zapato invisible",
+      "categoria": "Humor",
+      "dificultad": 1,
+      "palabras_count": 156,
+      "archivo": "contenido/cuento_004.json",
+      "fecha_creacion": "2024-12-01T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "titulo": "El secreto del alebrije",
+      "categoria": "FantasÃ­a",
+      "dificultad": 2,
+      "palabras_count": 134,
+      "archivo": "contenido/cuento_005.json",
+      "fecha_creacion": "2024-12-01T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "titulo": "El Ã¡rbol mÃ¡gico",
+      "categoria": "FantasÃ­a",
+      "dificultad": 1,
+      "palabras_count": 112,
+      "archivo": "contenido/cuento_006.json",
+      "fecha_creacion": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": 7,
+      "titulo": "La aventura del ratÃ³n valiente",
+      "categoria": "Aventura",
+      "dificultad": 1,
+      "palabras_count": 95,
+      "archivo": "contenido/cuento_007.json",
+      "fecha_creacion": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": 8,
+      "titulo": "El robot que aprendiÃ³ a reÃ­r",
+      "categoria": "Ciencia FicciÃ³n",
+      "dificultad": 2,
+      "palabras_count": 178,
+      "archivo": "contenido/cuento_008.json",
+      "fecha_creacion": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": 9,
+      "titulo": "La pulsera",
+      "categoria": "Valores",
+      "dificultad": 2,
+      "palabras_count": 650,
+      "archivo": "contenido/cuento_009.json",
+      "fecha_creacion": "2024-12-08T15:00:00Z"
+    },
+    {
+      "id": 10,
+      "titulo": "La rosa y el sapo",
+      "categoria": "Valores",
+      "dificultad": 1,
+      "palabras_count": 434,
+      "archivo": "contenido/cuento_010.json",
+      "fecha_creacion": "2025-06-17T05:23:29.683Z"
+    }
+  ]
+}

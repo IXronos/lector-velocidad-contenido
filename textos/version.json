@@ -1,0 +1,12 @@
+{
+  "version": "1.1.1",
+  "fecha_actualizacion": "2025-06-17T05:23:34.268Z",
+  "cambios": [
+    "Agregado cuento: 'La rosa y el sapo' - Valores"
+  ],
+  "total_textos": 10,
+  "nuevos_desde_version": {
+    "1.0.0": 1,
+    "0.9.0": 9
+  }
+}

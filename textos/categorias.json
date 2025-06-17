@@ -1,0 +1,32 @@
+{
+  "categorias": [
+    {
+      "nombre": "Fantasía",
+      "descripcion": "Cuentos con elementos mágicos y sobrenaturales",
+      "color": "#9C27B0",
+      "icon": "auto_awesome",
+      "count": 2
+    },
+    {
+      "nombre": "Aventura", 
+      "descripcion": "Historias de viajes y descubrimientos",
+      "color": "#FF5722",
+      "icon": "explore",
+      "count": 1
+    },
+    {
+      "nombre": "Amistad",
+      "descripcion": "Relatos sobre vínculos y compañerismo",
+      "color": "#4CAF50", 
+      "icon": "favorite",
+      "count": 1
+    },
+    {
+      "nombre": "Humor",
+      "descripcion": "Cuentos divertidos y cómicos",
+      "color": "#FFC107",
+      "icon": "sentiment_very_satisfied", 
+      "count": 1
+    }
+  ]
+}
