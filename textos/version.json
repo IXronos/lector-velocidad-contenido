@@ -1,10 +1,10 @@
 {
-  "version": "1.1.4",
-  "fecha_actualizacion": "2025-06-18T03:51:13.418Z",
+  "version": "1.1.5",
+  "fecha_actualizacion": "2025-06-18T04:16:10.436Z",
   "cambios": [
-    "Agregado cuento: 'El ratón' - Valores"
+    "Agregado cuento: 'El niño que pudo hacerlo' - Valores"
   ],
-  "total_textos": 13,
+  "total_textos": 14,
   "nuevos_desde_version": {
     "1.0.0": 1,
     "0.9.0": 9
