@@ -1,12 +1,12 @@
 {
-  "version": "1.1.6",
-  "ultimo_update": "2025-06-18T03:49:17.115Z",
-  "total_textos": 15,
+  "version": "1.1.7",
+  "ultimo_update": "2025-06-18T03:51:11.915Z",
+  "total_textos": 16,
   "textos": [
     {
       "id": 1,
       "titulo": "Mi gemela invisible",
-      "categoria": "FantasÃÂÃÂ­a",
+      "categoria": "FantasÃÂÃÂÃÂÃÂ­a",
       "dificultad": 2,
       "palabras_count": 245,
       "archivo": "contenido/cuento_001.json",
@@ -42,7 +42,7 @@
     {
       "id": 5,
       "titulo": "El secreto del alebrije",
-      "categoria": "FantasÃÂÃÂ­a",
+      "categoria": "FantasÃÂÃÂÃÂÃÂ­a",
       "dificultad": 2,
       "palabras_count": 134,
       "archivo": "contenido/cuento_005.json",
@@ -50,8 +50,8 @@
     },
     {
       "id": 6,
-      "titulo": "El ÃÂÃÂ¡rbol mÃÂÃÂ¡gico",
-      "categoria": "FantasÃÂÃÂ­a",
+      "titulo": "El ÃÂÃÂÃÂÃÂ¡rbol mÃÂÃÂÃÂÃÂ¡gico",
+      "categoria": "FantasÃÂÃÂÃÂÃÂ­a",
       "dificultad": 1,
       "palabras_count": 112,
       "archivo": "contenido/cuento_006.json",
@@ -59,7 +59,7 @@
     },
     {
       "id": 7,
-      "titulo": "La aventura del ratÃÂÃÂ³n valiente",
+      "titulo": "La aventura del ratÃÂÃÂÃÂÃÂ³n valiente",
       "categoria": "Aventura",
       "dificultad": 1,
       "palabras_count": 95,
@@ -68,8 +68,8 @@
     },
     {
       "id": 8,
-      "titulo": "El robot que aprendiÃÂÃÂ³ a reÃÂÃÂ­r",
-      "categoria": "Ciencia FicciÃÂÃÂ³n",
+      "titulo": "El robot que aprendiÃÂÃÂÃÂÃÂ³ a reÃÂÃÂÃÂÃÂ­r",
+      "categoria": "Ciencia FicciÃÂÃÂÃÂÃÂ³n",
       "dificultad": 2,
       "palabras_count": 178,
       "archivo": "contenido/cuento_008.json",
@@ -122,7 +122,7 @@
     },
     {
       "id": 14,
-      "titulo": "El HalcÃ³n que no volaba",
+      "titulo": "El HalcÃÂ³n que no volaba",
       "categoria": "Valores",
       "dificultad": 1,
       "palabras_count": 445,
@@ -137,6 +137,15 @@
       "palabras_count": 159,
       "archivo": "contenido/cuento_015.json",
       "fecha_creacion": "2025-06-18T03:49:13.964Z"
+    },
+    {
+      "id": 16,
+      "titulo": "El ratón",
+      "categoria": "Valores",
+      "dificultad": 2,
+      "palabras_count": 382,
+      "archivo": "contenido/cuento_016.json",
+      "fecha_creacion": "2025-06-18T03:51:08.874Z"
     }
   ]
 }
