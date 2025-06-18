@@ -1,12 +1,12 @@
 {
-  "version": "1.1.4",
-  "ultimo_update": "2025-06-17T05:23:32.851Z",
-  "total_textos": 10,
+  "version": "1.1.5",
+  "ultimo_update": "2025-06-18T03:38:03.775Z",
+  "total_textos": 14,
   "textos": [
     {
       "id": 1,
       "titulo": "Mi gemela invisible",
-      "categoria": "FantasÃ­a",
+      "categoria": "FantasÃÂ­a",
       "dificultad": 2,
       "palabras_count": 245,
       "archivo": "contenido/cuento_001.json",
@@ -42,7 +42,7 @@
     {
       "id": 5,
       "titulo": "El secreto del alebrije",
-      "categoria": "FantasÃ­a",
+      "categoria": "FantasÃÂ­a",
       "dificultad": 2,
       "palabras_count": 134,
       "archivo": "contenido/cuento_005.json",
@@ -50,8 +50,8 @@
     },
     {
       "id": 6,
-      "titulo": "El Ã¡rbol mÃ¡gico",
-      "categoria": "FantasÃ­a",
+      "titulo": "El ÃÂ¡rbol mÃÂ¡gico",
+      "categoria": "FantasÃÂ­a",
       "dificultad": 1,
       "palabras_count": 112,
       "archivo": "contenido/cuento_006.json",
@@ -59,7 +59,7 @@
     },
     {
       "id": 7,
-      "titulo": "La aventura del ratÃ³n valiente",
+      "titulo": "La aventura del ratÃÂ³n valiente",
       "categoria": "Aventura",
       "dificultad": 1,
       "palabras_count": 95,
@@ -68,8 +68,8 @@
     },
     {
       "id": 8,
-      "titulo": "El robot que aprendiÃ³ a reÃ­r",
-      "categoria": "Ciencia FicciÃ³n",
+      "titulo": "El robot que aprendiÃÂ³ a reÃÂ­r",
+      "categoria": "Ciencia FicciÃÂ³n",
       "dificultad": 2,
       "palabras_count": 178,
       "archivo": "contenido/cuento_008.json",
@@ -93,7 +93,7 @@
       "archivo": "contenido/cuento_010.json",
       "fecha_creacion": "2025-06-17T05:23:29.683Z"
     },
-        {
+    {
       "id": 11,
       "titulo": "Las entradas del circo",
       "categoria": "Familia",
@@ -119,6 +119,15 @@
       "palabras_count": 266,
       "archivo": "textos/contenido/cuento_013.json",
       "fecha_creacion": "2025-06-17T21:25:54.841Z"
+    },
+    {
+      "id": 14,
+      "titulo": "El Halcón que no volaba",
+      "categoria": "Valores",
+      "dificultad": 1,
+      "palabras_count": 445,
+      "archivo": "contenido/cuento_014.json",
+      "fecha_creacion": "2025-06-18T03:38:00.792Z"
     }
   ]
 }
