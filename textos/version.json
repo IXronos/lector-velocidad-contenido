@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
-  "fecha_actualizacion": "2025-06-17T05:23:34.268Z",
+  "version": "1.1.2",
+  "fecha_actualizacion": "2025-06-18T03:38:05.156Z",
   "cambios": [
-    "Agregado cuento: 'La rosa y el sapo' - Valores"
+    "Agregado cuento: 'El Halcón que no volaba' - Valores"
   ],
-  "total_textos": 10,
+  "total_textos": 11,
   "nuevos_desde_version": {
     "1.0.0": 1,
     "0.9.0": 9
