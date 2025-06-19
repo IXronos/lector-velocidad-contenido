@@ -1,16 +1,11 @@
 {
-  "app_version": "1.0.0",
-  "version_code": 1,
-  "download_url": "https://github.com/IXronos/lector-velocidad-contenido/releases/download/v1.0.0/juso-v1.0.0.ZIP",
-  "changelog": [
-    "🎉 Primera versión de Juso",
-    "📚 Biblioteca de cuentos interactiva",
-    "⚡ Modo entrenamiento de velocidad",
-    "📖 Modo lectura completa con cronómetro",
-    "🔄 Sincronización automática con GitHub"
-  ],
+  "app_version": "1.1.2",
+  "version_code": 1750301163,
+  "download_url": "https://github.com/IXronos/lector-velocidad-contenido/releases/download/v1.1.2/juso-v1.1.2.zip",
   "required": false,
-  "min_version_code": 1,
-  "release_date": "2024-12-17T21:00:00Z",
-  "release_notes": "Primera versión estable de Juso - Entrenador de Lectura Rápida"
+  "release_date": "2025-06-19T02:47:44.332Z",
+  "release_notes": "Se corrige conexión a base de datos",
+  "changelog": [
+    "Historial de Versiones - Juso v1.1.2 (18-06-2025)  Se corrige conexión a base de datos 📊 Estadísticas APK Size: ~25MB Cuentos incluidos: 9 Categorías: 4 Plataforma: Android 5.0+ Próximas versiones planificadas: v1.2.0 (Planificado)  Sistema de actualizaciones automáticas  Modo nocturno  Estadísticas de progreso  Más cuentos v1.3.0 (Futuro)  Configuración avanzada  Backup de datos  Compartir resultados"
+  ]
 }
